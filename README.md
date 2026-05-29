@@ -49,3 +49,5 @@ All experiments are reproducible via the open-source Conservation Spectral SDK (
 ## License
 
 MIT
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
